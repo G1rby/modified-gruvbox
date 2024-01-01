@@ -1,0 +1,335 @@
+{
+    "unsafe_colors": {
+        "CHAT_GREY": "#dedba4"
+    },
+    "version": "1.0",
+    "name": "G1rby",
+    "color": "#ebdbb2",
+    "colours": {
+        "BRAND_NEW": "#5865f2",
+        "PRIMARY_DARK": "#24231e",
+        "PRIMARY_DARK_100": "#2b2821",
+        "PRIMARY_DARK_200": "#24231e",
+        "PRIMARY_DARK_300": "#dedba4",
+        "PRIMARY_DARK_360": "#24231e",
+        "PRIMARY_DARK_400": "#24231e",
+        "PRIMARY_DARK_500": "#24231e",
+        "PRIMARY_DARK_600": "#dedba4",
+        "PRIMARY_DARK_630": "#dedba4",
+        "PRIMARY_DARK_700": "#2b2821",
+        "PRIMARY_DARK_800": "#dedba4",
+        "PRIMARY_DARK_900": "#24231e",
+        "WHITE": "#2b2821"
+    },
+    "theme_color_map": {
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#24231e",
+            "#24231e"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#24231e",
+            "#24231e"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#24231e",
+            "#24231e"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#24231e",
+            "#24231e"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#24231e",
+            "#24231e"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "CHANNEL_ICON": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "CONTROL_BRAND_FOREGROUND": [
+            "#24231e",
+            "#24231e"
+        ],
+        "CONTROL_BRAND_FOREGROUND_NEW": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "DEPRECATED_CARD_BG": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "DEPRECATED_CARD_EDITABLE_BG": [
+            "#24231e",
+            "#24231e"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "DEPRECATED_STORE_BG": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#24231e",
+            "#24231e"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_DISABLED": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#24231e",
+            "#24231e"
+        ],
+        "DEPRECATED_TEXT_INPUT_PREFIX": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "ELEVATION_HIGH": [
+            "#00FF00",
+            "#00FF00"
+        ],
+        "ELEVATION_LOW": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "ELEVATION_MEDIUM": [
+            "#24231e",
+            "#24231e"
+        ],
+        "ELEVATION_STROKE": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "FOCUS_PRIMARY": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#24231e",
+            "#24231e"
+        ],
+        "HEADER_PRIMARY": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "HEADER_SECONDARY": [
+            "#00FF00",
+            "#00FF00"
+        ],
+        "INFO_DANGER_BACKGROUND": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "INFO_DANGER_FOREGROUND": [
+            "#24231e",
+            "#24231e"
+        ],
+        "INFO_DANGER_TEXT": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "INFO_HELP_BACKGROUND": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "INFO_HELP_FOREGROUND": [
+            "#24231e",
+            "#24231e"
+        ],
+        "INFO_HELP_TEXT": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "INFO_POSITIVE_BACKGROUND": [
+            "#00FF00",
+            "#00FF00"
+        ],
+        "INFO_POSITIVE_FOREGROUND": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "INFO_POSITIVE_TEXT": [
+            "#24231e",
+            "#24231e"
+        ],
+        "INFO_WARNING_BACKGROUND": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "INFO_WARNING_FOREGROUND": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "INFO_WARNING_TEXT": [
+            "#24231e",
+            "#24231e"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#24231e",
+            "#24231e"
+        ],
+        "LOGO_PRIMARY": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "SCROLLBAR_AUTO_SCROLLBAR_COLOR_THUMB": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "SCROLLBAR_AUTO_SCROLLBAR_COLOR_TRACK": [
+            "#24231e",
+            "#24231e"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#24231e",
+            "#24231e"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#24231e",
+            "#24231e"
+        ],
+        "STATUS_POSITIVE_TEXT": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "STATUS_WARNING_BACKGROUND": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "STATUS_WARNING_TEXT": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#24231e",
+            "#24231e"
+        ],
+        "TEXT_DANGER": [
+            "#FF79FF",
+            "#FF79FF"
+        ],
+        "TEXT_LINK": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "TEXT_LINK_LOW_SATURATION": [
+            "#24231e",
+            "#24231e"
+        ],
+        "TEXT_MUTED": [
+            "#7030A0",
+            "#7030A0"
+        ],
+        "TEXT_NORMAL": [
+            "#2b2821",
+            "#2b2821"
+        ],
+        "TEXT_POSITIVE": [
+            "#dedba4",
+            "#dedba4"
+        ],
+        "TEXT_WARNING": [
+            "#7030A0",
+            "#7030A0"
+        ]
+    },
+    "description": "UwU"
+}
